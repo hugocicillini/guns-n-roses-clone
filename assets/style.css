@@ -178,7 +178,7 @@ footer div:nth-child(2) {
 }
 
 .empty {
-    width: 33vw;
+    width: 32vw;
 }
 
 .copyright {
@@ -221,7 +221,7 @@ footer div:nth-child(2) {
     gap: 1rem;
     align-items: center;
     justify-content: flex-end;
-    width: 33vw;
+    width: 30vw;
 }
 
 .icon i {
